@@ -1,4 +1,4 @@
-## Laravel app for multi role page access
+## Laravel app for multi role page access using middleware
 
 1. `git clone https://github.com/mdutt247/laravel-multi-role-access.git`
 2. `cd laravel-multi-role-access`
