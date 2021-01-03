@@ -1,7 +1,7 @@
-## Sample Laravel app for multi role page access and multifile upload
+## Laravel app for multi role page access using middleware
 
-1. `git clone https://github.com/mdutt247/example-app.git`
-2. `cd example-app`
+1. `git clone https://github.com/mdutt247/laravel-multi-role-access.git`
+2. `cd laravel-multi-role-access`
 3. `composer install`
 4. Rename or copy `.env.example` file to `.env`
 5. `php artisan key:generate`
@@ -13,4 +13,3 @@
 11. Visit `localhost:8000/login` in your browser
 12. User id for `admin & author` role: `admin@gmail.com` and password: `password`
 13. User id for `author` role: `author@gmail.com` and password: `password`
-# laravel-multi-role-access
