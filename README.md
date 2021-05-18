@@ -13,3 +13,7 @@
 11. Visit `localhost:8000/login` in your browser
 12. User id for `admin & author` role: `admin@gmail.com` and password: `password`
 13. User id for `author` role: `author@gmail.com` and password: `password`
+
+Twitter: [kotagin](https://twitter.com/kotagin)
+E-mail: [m.dutt@mditech.net](mailto:m.dutt@mditech.net)
+Website: [mditech.net](https://mditech.net)
